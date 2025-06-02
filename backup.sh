@@ -1,9 +1,4 @@
 #!/bin/bash
-<< help
-
-This we have updated in branch dev for master to automatic
-
-help
 
 scr=$1
 desc=$2
